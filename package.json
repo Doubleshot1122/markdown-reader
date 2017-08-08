@@ -1,0 +1,12 @@
+{
+  "name": "markdown-reader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Doubleshot1122/markdown-reader.git",
+  "author": "Doubleshot1122 <skibo1122@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
